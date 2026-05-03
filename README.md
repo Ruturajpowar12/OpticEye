@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 👁️ OpticEye – Full Stack Eyewear E-Commerce Platform
 
 OpticEye is a full-stack e-commerce web application designed for seamless online eyewear shopping. It provides a complete digital solution with a customer-facing storefront, an admin dashboard for management, and a robust REST API backend.
