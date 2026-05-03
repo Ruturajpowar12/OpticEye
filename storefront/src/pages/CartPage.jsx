@@ -15,7 +15,7 @@ const CartPage = () => {
 
   if (!items.length) {
     return (
-      <section className="section container">
+      <section className="section container page">
         <h2>Your cart is empty</h2>
         <p>Add eyewear products to continue.</p>
         <Link to="/shop" className="primary-btn small">
@@ -26,7 +26,7 @@ const CartPage = () => {
   }
 
   return (
-    <section className="section container checkout-grid">
+    <section className="section container checkout-grid page">
       <div className="list-card">
         <h2>Shopping Cart</h2>
         {items.map((item) => (

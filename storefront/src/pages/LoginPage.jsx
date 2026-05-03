@@ -29,7 +29,7 @@ const LoginPage = () => {
   };
 
   return (
-    <section className="section container auth-shell">
+    <section className="section container auth-shell page">
       <aside className="auth-side">
         <p className="eyebrow">Development Preview</p>
         <h3>OpticEye Account Access</h3>

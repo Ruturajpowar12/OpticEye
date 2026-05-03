@@ -38,7 +38,7 @@ const DashboardPage = () => {
   ];
 
   return (
-    <section className="stack-gap">
+    <section className="stack-gap page">
       <header>
         <h1>Dashboard</h1>
         <p>Quick business snapshot for OpticEye e-commerce.</p>

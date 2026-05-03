@@ -57,7 +57,7 @@ const CheckoutPage = () => {
   };
 
   return (
-    <section className="section container checkout-grid">
+    <section className="section container checkout-grid page">
       <form className="list-card form-grid" onSubmit={handlePlaceOrder}>
         <h2>Shipping Details</h2>
         <input

@@ -64,7 +64,7 @@ const UsersPage = () => {
   }, [users, search]);
 
   return (
-    <section className="stack-gap">
+    <section className="stack-gap page">
       <header>
         <h1>Users</h1>
         <p>Manage customer accounts and admin privileges.</p>

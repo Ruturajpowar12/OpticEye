@@ -52,7 +52,7 @@ const AccountPage = () => {
   };
 
   return (
-    <section className="section container checkout-grid">
+    <section className="section container checkout-grid page">
       <form className="list-card form-grid" onSubmit={handleProfileSubmit}>
         <h2>My Profile</h2>
         <input

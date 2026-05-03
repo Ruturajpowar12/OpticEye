@@ -26,7 +26,7 @@ const RegisterPage = () => {
   };
 
   return (
-    <section className="section container auth-shell">
+    <section className="section container auth-shell page">
       <aside className="auth-side">
         <p className="eyebrow">Create Your Profile</p>
         <h3>Join OpticEye in 30 Seconds</h3>

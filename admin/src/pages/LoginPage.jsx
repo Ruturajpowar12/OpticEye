@@ -33,7 +33,7 @@ const LoginPage = () => {
   };
 
   return (
-    <section className="admin-auth-wrap">
+    <section className="admin-auth-wrap page">
       <form className="admin-auth-card" onSubmit={handleSubmit}>
         <h1>OpticEye Admin</h1>
         <p>Login to manage products, orders, users and catalog categories.</p>

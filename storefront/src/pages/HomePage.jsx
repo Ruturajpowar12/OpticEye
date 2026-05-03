@@ -51,7 +51,7 @@ const HomePage = () => {
   }, []);
 
   return (
-    <div>
+    <div className="page">
       <section className="hero">
         <div className="container hero-grid">
           <div className="hero-banner">

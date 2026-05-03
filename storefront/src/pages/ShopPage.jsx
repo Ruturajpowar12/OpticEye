@@ -65,7 +65,7 @@ const ShopPage = () => {
   );
 
   return (
-    <section className="section container">
+    <section className="section container page">
       <div className="section-head">
         <h2>Shop Eyewear</h2>
         <button type="button" className="outline-btn small-btn-lite" onClick={() => setFilters(defaultFilters)}>

@@ -115,7 +115,7 @@ const CategoriesPage = () => {
   }, [categories, search]);
 
   return (
-    <section className="stack-gap">
+    <section className="stack-gap page">
       <header>
         <h1>Categories</h1>
         <p>Manage eyewear category rails used in storefront navigation.</p>

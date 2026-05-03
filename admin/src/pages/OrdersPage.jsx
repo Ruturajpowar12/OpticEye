@@ -62,7 +62,7 @@ const OrdersPage = () => {
   }, [orders, search]);
 
   return (
-    <section className="stack-gap">
+    <section className="stack-gap page">
       <header>
         <h1>Orders</h1>
         <p>Monitor order lifecycle and update fulfillment states.</p>

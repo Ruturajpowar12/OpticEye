@@ -172,7 +172,7 @@ const ProductsPage = () => {
   }, [products, search]);
 
   return (
-    <section className="stack-gap">
+    <section className="stack-gap page">
       <header>
         <h1>Products</h1>
         <p>Create and manage eyeglasses and sunglasses inventory.</p>

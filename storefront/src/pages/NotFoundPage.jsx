@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 const NotFoundPage = () => (
-  <section className="section container notfound-wrap">
+  <section className="section container notfound-wrap page">
     <div className="notfound-card">
       <p className="eyebrow">404</p>
       <h2>Page not found</h2>

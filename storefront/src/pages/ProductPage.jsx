@@ -31,17 +31,17 @@ const ProductPage = () => {
   }, [id]);
 
   if (loading) {
-    return <section className="section container">Loading product...</section>;
+    return <section className="section container page">Loading product...</section>;
   }
 
   if (!product) {
-    return <section className="section container">{error || "Product not found"}</section>;
+    return <section className="section container page">{error || "Product not found"}</section>;
   }
 
   const finalPrice = product.salePrice || product.price;
 
   return (
-    <section className="section container product-detail">
+    <section className="section container product-detail page">
       <img src={product.images[0]} alt={product.title} className="detail-image" />
       <div>
         <p className="eyebrow">{product.category?.name}</p>
