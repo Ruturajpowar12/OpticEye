@@ -9,7 +9,9 @@ coverage/
 *.tsbuildinfo
 
 # Environment files (secrets)
-
+.env
+.env.*
+!.env.example
 
 
 # Logs
