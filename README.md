@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 👁️ OpticEye – Full Stack Eyewear E-Commerce Platform
 
 OpticEye is a full-stack e-commerce web application designed for seamless online eyewear shopping. It provides a complete digital solution with a customer-facing storefront, an admin dashboard for management, and a robust REST API backend.
@@ -11,6 +12,20 @@ OpticEye is a full-stack e-commerce web application designed for seamless online
 - `admin` - admin dashboard (React + Vite)
 - `server` - API server (Node.js + Express + MongoDB)
 
+=======
+# 👁️ OpticEye – Full Stack Eyewear E-Commerce Platform
+
+OpticEye is a full-stack e-commerce web application designed for seamless online eyewear shopping. It provides a complete digital solution with a customer-facing storefront, an admin dashboard for management, and a robust REST API backend.
+## Live Links
+- Storefront: `https://opticeye-1.onrender.com`
+- Admin: `https://opticeye-admin.onrender.com`
+
+## Apps
+- `storefront` - customer website (React + Vite)
+- `admin` - admin dashboard (React + Vite)
+- `server` - API server (Node.js + Express + MongoDB)
+
+>>>>>>> 791f2c9d4d67d0fd3aec5f2b7f97404db2fddd36
 ## Quick Setup
 ```bash
 cd server && npm install
