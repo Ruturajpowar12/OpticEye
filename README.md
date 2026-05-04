@@ -24,7 +24,6 @@ OpticEye is a full-stack e-commerce web application designed for seamless online
 - `admin` - admin dashboard (React + Vite)
 - `server` - API server (Node.js + Express + MongoDB)
 
->>>>>>> 791f2c9d4d67d0fd3aec5f2b7f97404db2fddd36
 ## Quick Setup
 ```bash
 cd server && npm install
